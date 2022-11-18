@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajith V Reji
-- 👀 I’m interested in app development in both Android and iOS, also UI/UX designs stuff.
-- 🌱 I’m currently learning ReactJs.
-- 💞️ I’m looking to collaborate on any App Development Projects
+- 👀 I’m interested in Infra.
+- 🌱 I’m currently learning AWS.
+- 💞️ I’m looking to collaborate on any DevOps Projects
 - 📫 How to reach me: M: ajithvreji@gmail.com, L: https://www.linkedin.com/in/ajithvreji/
 
 <!---
