@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajith V Reji
-- 👀 I’m interested in Infra-Management DevOps and Front-End development.
+- 👀 I’m interested in Infra-Management DevOps and UI Design and Development.
 - 🌱 I’m currently learning Spring.
 - 💞️ I’m looking to collaborate on any DevOps/React Projects
 - 📫 How to reach me: M: ajithvreji@gmail.com, L: https://www.linkedin.com/in/ajithvreji/
